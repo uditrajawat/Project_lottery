@@ -15,23 +15,7 @@ Ethers
 Hardhat
 IPFS
 
-- [NextJS Smartcontract Lottery (Raffle) FCC](#nextjs-smartcontract-lottery-raffle-fcc)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-  - [Typescript](#typescript)
-    - [Optional Gitpod](#optional-gitpod)
-  - [Formatting in VSCode](#formatting-in-vscode)
-- [Usage](#usage)
-  - [Testing](#testing)
-- [Deploying to IPFS](#deploying-to-ipfs)
-- [Deploy to IPFS using Fleek](#deploy-to-ipfs-using-fleek)
-- [Linting](#linting)
-- [Thank you!](#thank-you)
 
-This project is a part of the Hardhat FreeCodeCamp video.
-
-Video coming soon...
 
 # Getting Started
 
